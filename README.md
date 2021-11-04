@@ -1,0 +1,3 @@
+# SharedKernel
+
+Context for microservices
