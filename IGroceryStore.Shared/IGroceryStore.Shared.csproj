@@ -19,4 +19,5 @@
     <PackageLicenseUrl>https://github.com/IGroceryStore/Shared/blob/main/LICENSE.md</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/IGroceryStore/Shared</RepositoryUrl>
   </PropertyGroup>
+  
 </Project>
