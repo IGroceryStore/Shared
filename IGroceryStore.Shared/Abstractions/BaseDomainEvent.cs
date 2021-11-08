@@ -1,7 +1,7 @@
 using System;
 using MediatR;
 
-namespace IGroceryStore.Shared
+namespace IGroceryStore.Shared.Abstractions
 {
     public abstract class BaseDomainEvent : INotification
     {
